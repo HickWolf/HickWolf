@@ -4,7 +4,7 @@
 - 🌱 Estudando Segurança da Informação
 - 📫 Contate-me no email: henriantonio@live.com
 - 📞 Fone : +55 (11) 9 7616-6132
-- 😄 Pronouns: Hick
+- 😄 Pronouns: Ele/Dele (Hick)
 
  <div>
  <a href="https://github.com/hickwolf">
