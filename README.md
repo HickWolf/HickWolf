@@ -15,6 +15,7 @@
  <img align="center" alt="Hick-Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
  <img align="center" alt="Hick-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
  <img align="center" alt="Hick-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
+|
  <img align="center" alt="Hick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="right" alt="Hick-Wolf" height="130" src="https://1.bp.blogspot.com/-NXqCRFGz19I/WgipZa6n9gI/AAAAAAAC7Xw/XKSNLBAsOYs3GrvRYiddYKvGUd32Mar7ACLcBGAs/s1600/l12.gif">
 </div>
