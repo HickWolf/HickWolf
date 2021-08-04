@@ -1,6 +1,6 @@
 ## Oiii!!!  Eu sou o Henrique Silva Antonio👋
 
-- 🔭 Hoje eu trabalho como Suporte Tecnico
+- 🔭 Hoje eu trabalho como 💻Suporte Tecnico
 - 🌱 Estudando 👨‍💻Análise e Desenvolvimento de Sistemas e 🔐Segurança da Informação
 - 📫 Contate-me no email: henriantonio@live.com
 - 📞 Fone : +55 (11) 9 7616-6132
