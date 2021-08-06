@@ -1,27 +1,30 @@
 ## Oiii!!!  Eu sou o Henrique Silva Antonio👋
+<p align="center">
+ <a href="https://github.com/hickwolf">
+ <img height="170em" src="https://github-readme-stats.vercel.app/api?username=hickwolf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hickwolf&layout=compact&show_icons=true&theme=tokyonight"/>
+</p>
 
+## Abstract 💭
+- 🕵️‍♂️ Total de Visitas no perfil:  <img height="19" src="https://profile-counter.glitch.me/hickwolf/count.svg" />
 - 🔭 Hoje eu trabalho como 💻Suporte Tecnico
 - 🌱 Estudando 👨‍💻Análise e Desenvolvimento de Sistemas e 🔐Segurança da Informação
 - 📫 Contate-me no email: henriantonio@live.com
 - 📞 Fone : +55 (11) 9 7616-6132
 - 😄 Pronouns: Ele/Dele (Hick)
 
- <div>
- <a href="https://github.com/hickwolf">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hickwolf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hickwolf&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
- <div style="display: inline_block"><br>
+## Skills 🤓
+<div style="display: inline_block"><br>
  <img align="center" alt="Hick-Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
  <img align="center" alt="Hick-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
  <img align="center" alt="Hick-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
  <img align="center" alt="Hick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Hick-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img align="right" alt="Hick-Wolf" height="130" src="https://1.bp.blogspot.com/-NXqCRFGz19I/WgipZa6n9gI/AAAAAAAC7Xw/XKSNLBAsOYs3GrvRYiddYKvGUd32Mar7ACLcBGAs/s1600/l12.gif">
 </div>
 
-##
-
+## Contact 📱
 <div> 
  <a href="https://www.facebook.com/henrique.silvaantonio/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
  <a href="https://www.instagram.com/henrique.silvaantonio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
