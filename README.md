@@ -1,21 +1,24 @@
 ## Oiii!!!  Eu sou o Henrique Silva Antonio👋
-- 🕵️‍♂️ Total de Visitas no perfil:  <img height="19" src="https://profile-counter.glitch.me/hickwolf/count.svg" />
+
+- 🕵️‍♂️ Total de Visitas no perfil:  <img align="center" height="19" src="https://profile-counter.glitch.me/hickwolf/count.svg" />
 - 🔭 Hoje eu trabalho como 💻Suporte Tecnico
 - 🌱 Estudando 👨‍💻Análise e Desenvolvimento de Sistemas e 🔐Segurança da Informação
 - 📫 Contate-me no email: henriantonio@live.com
 - 📞 Fone : +55 (11) 9 7616-6132
 - 😄 Pronouns: Ele/Dele (Hick)
-
+###
  <a href="https://github.com/hickwolf">
  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hickwolf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hickwolf&layout=compact&show_icons=true&theme=tokyonight"/>
 
 
 ## Skills 🤓
-<div style="display: inline_block"><br>
  <img align="center" alt="Hick-Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
  <img align="center" alt="Hick-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
  <img align="center" alt="Hick-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
+<img align="center" alt="Hick-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+ <img align="center" alt="Hick-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+
  <img align="center" alt="Hick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Hick-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -33,6 +36,7 @@
  <a href="https://discord.gg/5X3v9XAr" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href = "mailto:henriantonio@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
  <a href = "mailto:henriantoniosa@gmail.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://github.com/hickwolf"><img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/teteusAraujo" target="_blank"></a>
 
    ![Snake animation](https://github.com/hickwolf/hickwolf/blob/output/github-contribution-grid-snake.svg)
  
