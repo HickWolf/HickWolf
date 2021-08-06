@@ -1,9 +1,8 @@
 ## Oiii!!!  Eu sou o Henrique Silva Antonio👋
-<p align="center">
  <a href="https://github.com/hickwolf">
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hickwolf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hickwolf&layout=compact&show_icons=true&theme=tokyonight"/>
-</p>
+ <img height="140em" src="https://github-readme-stats.vercel.app/api?username=hickwolf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hickwolf&layout=compact&show_icons=true&theme=tokyonight"/>
+
 
 ## Abstract 💭
 - 🕵️‍♂️ Total de Visitas no perfil:  <img height="19" src="https://profile-counter.glitch.me/hickwolf/count.svg" />
