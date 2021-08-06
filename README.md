@@ -12,7 +12,7 @@
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hickwolf&layout=compact&show_icons=true&theme=tokyonight"/>
 
 
-## Skills 🤓
+## Technologies ⚡️
  <img align="center" alt="Hick-Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
  <img align="center" alt="Hick-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
  <img align="center" alt="Hick-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
