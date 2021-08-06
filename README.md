@@ -1,16 +1,15 @@
 ## Oiii!!!  Eu sou o Henrique Silva Antonio👋
- <a href="https://github.com/hickwolf">
- <img height="140em" src="https://github-readme-stats.vercel.app/api?username=hickwolf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hickwolf&layout=compact&show_icons=true&theme=tokyonight"/>
-
-
-## Abstract 💭
 - 🕵️‍♂️ Total de Visitas no perfil:  <img height="19" src="https://profile-counter.glitch.me/hickwolf/count.svg" />
 - 🔭 Hoje eu trabalho como 💻Suporte Tecnico
 - 🌱 Estudando 👨‍💻Análise e Desenvolvimento de Sistemas e 🔐Segurança da Informação
 - 📫 Contate-me no email: henriantonio@live.com
 - 📞 Fone : +55 (11) 9 7616-6132
 - 😄 Pronouns: Ele/Dele (Hick)
+
+ <a href="https://github.com/hickwolf">
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hickwolf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hickwolf&layout=compact&show_icons=true&theme=tokyonight"/>
+
 
 ## Skills 🤓
 <div style="display: inline_block"><br>
